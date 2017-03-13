@@ -1,0 +1,15 @@
+Esta carpeta contiene Artefactos, donde, se describe el proceso de la gestión de requisitos 
+en el proyecto final.
+ 
+Gestión de Requisitos:
+
+·        Especificación de valor (Visión o Backlog)
+
+·        Cuál es el problema concreto a resolver?
+
+·        Cuál es la solución propuesta?
+
+·        Unidades diligenciadas para la especificación de valor (casos de uso,
+		 historias de usuario)
+
+·        Requisitos de calidad

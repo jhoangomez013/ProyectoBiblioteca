@@ -1,0 +1,4 @@
+Esta carpeta contiene Artefactos, donde, se describe el proceso de aseguramiento
+de la calidad del proyecto mediante CMMI u la metodología de desarrollo utilizada.
+
+			Evidencias cumplimiento SP 1.1. y SP 1.2. de PPAQ

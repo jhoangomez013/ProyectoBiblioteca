@@ -1,0 +1,16 @@
+Esta carpeta contiene Artefactos, donde, se describe el proceso de la Administración
+del proyecto.
+
+Administración del proyecto:
+
+·        Gestión desde una plataforma (ver enlaces)
+
+·        Aplicación del framework de Gestión de Proyectos (considerando 
+		 compatibilidad con PP de CMMI-Dev):
+		 
+		 · Riesgos,
+		 · WBS,
+		 · Cronograma.
+
+
+ 
