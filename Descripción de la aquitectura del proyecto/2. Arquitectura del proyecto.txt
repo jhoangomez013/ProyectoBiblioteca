@@ -1,0 +1,6 @@
+Esta carpeta contiene Artefactos, donde, se describe la arquitectura del proyecto.
+
+
+
+
+ 
